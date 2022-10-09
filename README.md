@@ -1,3 +1,4 @@
+![Screenshot from 2022-10-01 21-16-47](https://user-images.githubusercontent.com/57985235/194778324-9105cae4-e8e6-426c-b24b-3d6466f8ac07.png)
 # my_shop_app
 
 A new Flutter project.
