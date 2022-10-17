@@ -2,11 +2,9 @@
 
 A new Flutter project.
 
-## ScreenShots
-![Screenshot from 2022-10-01 21-16-47](https://user-images.githubusercontent.com/57985235/194778324-9105cae4-e8e6-426c-b24b-3d6466f8ac07.png)
-![Screenshot from 2022-10-01 21-17-15](https://user-images.githubusercontent.com/57985235/194778409-33fb756c-c1de-4d97-ba7b-7f271bdb5f8c.png)
-![Screenshot from 2022-10-01 21-17-23](https://user-images.githubusercontent.com/57985235/194778417-ed06a977-db15-4940-a933-7e4b669ffd64.png)
-![Screenshot from 2022-10-01 21-17-36](https://user-images.githubusercontent.com/57985235/194778460-c464bf0e-ce37-4c23-90c1-0aa871df2006.png)
+## photo
+
+![6f2e88cb-351b-4dee-a9d4-bb487c045a23](https://user-images.githubusercontent.com/57985235/196172102-861e339c-d546-4f12-aee3-dc8259bb0aab.png)
 
 This project is a starting point for a Flutter application.
 
